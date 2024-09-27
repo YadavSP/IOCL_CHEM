@@ -20,8 +20,8 @@ export default function Dashboard() {
   return (
     <div className="container mx-auto px-4 py-8 bg-gray-50"> {/* Light background color */}
       <header className="text-center mb-12">
-        <h1 className="text-4xl font-bold text-blue-600 mb-2">India Chem 2024</h1>
-        <p className="text-xl text-gray-500">Petrochemical Products Showcase</p>
+        <h1 className="text-4xl font-bold text-green-600 mb-2">INDIA CHEM 2024</h1>
+        <p className="text-xl text-black-500">Petrochemical Products Showcase</p>
       </header>
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
