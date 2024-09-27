@@ -82,5 +82,35 @@ body {
     --chart-4: 280 65% 60%;
     --chart-5: 340 75% 55%;
   }
+
+  :root {
+    /* CSS HEX */
+    --timberwolf: #DDCFCB;
+    --mountbatten-pink: #A27780;
+    --silver: #B6BABC;
+    --french-gray: #B1B4B8;
+    --cadet-gray: #8A9B9C;
+  }
+  
+  .bg-timberwolf {
+    background-color: var(--timberwolf);
+  }
+  
+  .bg-mountbatten-pink {
+    background-color: var(--mountbatten-pink);
+  }
+  
+  .bg-silver {
+    background-color: var(--silver);
+  }
+  
+  .bg-french-gray {
+    background-color: var(--french-gray);
+  }
+  
+  .bg-cadet-gray {
+    background-color: var(--cadet-gray);
+  }
+  
 }
 
